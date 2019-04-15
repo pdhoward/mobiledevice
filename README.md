@@ -14,7 +14,7 @@ none
 
 ## Built With
 
-care
+https://www.w3schools.com/howto/howto_css_devices.asp
 
 ## LICENSE
 MIT
