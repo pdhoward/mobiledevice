@@ -6,7 +6,7 @@ A progressive web app which serves as the end-point for mobile device engagement
 ## Getting Started
 
 1. Clone this repository.
-2. npm start
+2. open .html file in the browser
 
 ### Prerequisites
 
