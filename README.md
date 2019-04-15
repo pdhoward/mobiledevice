@@ -1,26 +1,20 @@
-# Mobile
-Distribution model for content and functions
+# Mobile Device
+Device template for testing pwa apps from the web or desktop
 
 A progressive web app which serves as the end-point for mobile device engagement
 
 ## Getting Started
 
 1. Clone this repository.
-2. In a terminal window, start MongoDB 
-3. npm install
-4. Navigate to root and npm start
+2. npm start
 
 ### Prerequisites
 
-- [MongoDB (version 3.6 or superior)](https://www.mongodb.com/download-center#community)
-- [Node.js (10 or superior)](https://nodejs.org/en/download/)
+none
 
 ## Built With
 
-* [MongoDB](https://www.mongodb.com/) - NoSQL database
-* [Node.js](https://nodejs.org/en/) - A JavaScript runtime 
-* [React](https://reactjs.org/) - A JavaScript library for building webapps
-
+care
 
 ## LICENSE
 MIT
